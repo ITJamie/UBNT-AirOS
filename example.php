@@ -1,5 +1,7 @@
 <?php
 
+require('airos_function.php');
+
 // Here are the minimum requirements to login and get back the first page. Supports http and https and offset ports.
 $inputarray['username']	= 'ubnt';
 $inputarray['password']	= 'ubnt';
